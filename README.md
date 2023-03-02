@@ -12,7 +12,7 @@ Programming language used : Python, R, SQL, Matlab
 
 Models or methods : Machine learning, Neural networks, Deep learning (AI), Math modeling
 
-Type of analysis :  Risk analysis, Time series/forecasting, text classification, prediction (disease, risk, sales)
+analysis :  Risk analysis, Time series/forecasting, text classification, prediction (disease, risk, sales)
 
 
 
@@ -42,9 +42,6 @@ Codes can be used to simulate different conditions using the models
 
 
 
-9. Risk analysis using Medicare Claims data (python, machine learning, fraud detection)
-Medicare part D data which includes prescriber and drugs were used in risk prediction
-Risk of fraud was predicted using past fraud details by prescriber and department
 
 10. Cervical spine fracture detection ( Deep learning, Computer vision) : Kaggle competition (On-going) 
 
